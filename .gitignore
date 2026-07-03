@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle data
+data/raw/
+data/*.zip
+
+# Generated submissions
+data/submissions/*.csv
+!data/submissions/experiment_log.csv
