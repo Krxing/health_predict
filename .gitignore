@@ -223,4 +223,5 @@ data/*.zip
 
 # Generated submissions
 data/submissions/*.csv
+!data/submissions/
 !data/submissions/experiment_log.csv
